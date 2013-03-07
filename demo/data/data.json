@@ -7,37 +7,55 @@
 
             "products": [
                 {
-                    "id": 11,
-                    "text": "Apple",
-                    "weight": "120/25 grm",
-                    "price": 27,
-                    "img_tmb": "resources/images/products/apple.jpg",
-                    "leaf": true
+                "id": 1,
+                "name": "Apple",
+                "description": "1 Description bla bla bla bla bla bla bla bla bla bla bla bla 1",
+                "price": "45.44",
+                "leaf": true
                 },
                 {
-                    "id": 12,
-                    "text": "Cheese",
-                    "weight": "100 grm",
-                    "price": 34,
-                    "img_tmb": "resources/images/products/cheese.jpg",
-                    "leaf": true
+                "id": 2,
+                "name": "Banana",
+                "description": "2 Description bla bla bla bla bla bla bla bla bla bla bla bla 2",
+                "price": "34.99",
+                "leaf": true
                 },
                 {
-                    "id": 13,
-                    "text": "Shrimp",
-                    "weight": "200/25 grm",
-                    "price": 41,
-                    "img_tmb": "resources/images/products/shrimp.jpg",
-                    "leaf": true
+                "id": 3,
+                "name": "Sugar Cane",
+                "description": "3 Description bla bla bla bla bla bla bla bla bla bla bla bla 3",
+                "price": "5.99",
+                "leaf": true
                 },
                 {
-                    "id": 14,
-                    "text": "Pumpkin",
-                    "weight": "400/25 grm",
-                    "price": 85,
-                    "img_tmb": "resources/images/products/pumpkin.jpg",
-                    "leaf": true
-                }
+                "id": 4,
+                "name": "Papaya",
+                "description": "4 Description bla bla bla bla bla bla bla bla bla bla bla bla 4",
+                "price": "85.99",
+                "leaf": true
+                },
+                {
+                "id": 5,
+                "name": "Orange",
+                "description": "5 Description bla bla bla bla bla bla bla bla bla bla bla bla 5",
+                "price": "95.99",
+                "leaf": true
+                },
+                {
+                "id": 6,
+                "name": "Grapes",
+                "description": "6 Description bla bla bla bla bla bla bla bla bla bla bla bla 6",
+                "price": "15.99",
+                "leaf": true
+                },
+                {
+                "id": 7,
+                "name": "Pizza",
+                "description": "7 Description bla bla bla bla bla bla bla bla bla bla bla bla 7",
+                "price": "15.99",
+                "leaf": true
+                }
+
             ]
         },
         {
